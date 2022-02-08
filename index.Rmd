@@ -19,6 +19,8 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fbaby-face&psig=AOvVaw1ymgYEzmPFTU6WOHdKGwWA&ust=1644420543359000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOC_loW28PUCFQAAAAAdAAAAABAD)
+
 ## Including Plots
 
 You can also embed plots, for example:
